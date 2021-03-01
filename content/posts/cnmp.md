@@ -6,7 +6,7 @@ lastmod: 2021-01-01T23:04:58-03:00
 author: Cynthia Belleza
 avatar: /img/avatar.jpg
 # authorlink: https://author.site
-cover: /img/cover_cnmp.jpg
+cover: /img/cnmp/cover_cnmp.jpg
 categories:
   - UX 
 tags:

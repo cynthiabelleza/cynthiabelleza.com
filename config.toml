@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 googleAnalytics = "..."
 enableRobotsTXT = true
 
-#Paginate = 4
+Paginate = 7
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
