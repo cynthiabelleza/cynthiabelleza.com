@@ -1,5 +1,5 @@
 ---
-title: "CNMP Processes (ongoing)"
+title: "Process Review (ongoing)"
 
 date: 2021-01-01T23:04:58-03:00
 lastmod: 2021-01-01T23:04:58-03:00
@@ -22,4 +22,4 @@ Process improvement with task analysis and use of MS Excel to control data and c
 
 * **Employed by**: National Council of Public Prosecutors (CNMP)
 
-* Process improvement with task analysis and use of MS Excel to control data and create dashboards
+...

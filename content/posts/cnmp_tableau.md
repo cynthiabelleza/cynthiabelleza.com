@@ -1,5 +1,5 @@
 ---
-title: "CNMP Tableau (ongoing)"
+title: "HR BI (ongoing)"
 
 date: 2021-01-01T23:04:58-03:00
 lastmod: 2021-01-01T23:04:58-03:00
@@ -22,4 +22,4 @@ Working to define a good information architecture on the use of the software Tab
 
 * **Employed by**: National Council of Public Prosecutors (CNMP)
 
-* Currently, working to define a good information architecture on the use of the software Tableau by the HR Team
+...
