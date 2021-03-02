@@ -10,7 +10,7 @@ cover: /img/cnmp_processes/cover_cnmp_processes.jpg
 categories:
   - UX 
 tags:
-  - Information Architecture  
+  - Process Definition 
 
 ---
 
@@ -18,7 +18,7 @@ Process improvement with task analysis and use of MS Excel to control data and c
 
 <!--more-->
 
-* **My role**: ...
+* **My role**: Process Definition
 
 * **Employed by**: National Council of Public Prosecutors (CNMP)
 

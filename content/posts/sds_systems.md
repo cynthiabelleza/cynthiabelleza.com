@@ -19,10 +19,8 @@ Intranet and system for submitting projects for the 2014 World Cup
 
 <!--more-->
 
-* **My role**: 
+* **My role**: Information Architecture, Interaction Design
 
-* **Employed by**: 
-
-Main projects:
+* **Employed by**: State Information Technology Agency (ATI)
 
 * UX research and interaction design of IT systems to the Secretary of Social Defense and Military Police, including the use of Joomla and prototyping a system for submitting projects for the 2014 World Cup

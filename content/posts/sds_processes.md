@@ -18,11 +18,12 @@ Process definition for the project management sector
 
 <!--more-->
 
-* **My role**: 
+* **My role**: Process Definition
 
-* **Employed by**: 
+* **Employed by**:  State Information Technology Agency (ATI)
 
-Main projects:
+Being someone passionate about organization, 
+
 
 * UX research and interaction design of IT systems to the Secretary of Social Defense and Military Police, including the use of Joomla and prototyping a system for submitting projects for the 2014 World Cup
 
