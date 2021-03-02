@@ -29,6 +29,7 @@ In this case, the design group of this project wanted a process to avoid rework 
 
 Our proposal was to create a meeting to join designers, analysts and usability engineers in order to unify the understanding of the interface through paper prototyping beyond evolving this in a wireframe. This wireframe would be sent to the client, receive the approval and/or suggestions by them and turned into a web screen. In the first delivery, the client would focus on the interaction and information architecture while in next step would observe the visual identity. This process is still being used since we presented to the Bacen team.
 
+---
 * Paper Prototype
 
 ![Prototype](/img/bacen/prot.jpg)
